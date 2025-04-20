@@ -1,8 +1,6 @@
 streamlit
-rdkit-pypi
 pandas
 numpy
-pillow
-plotly
 requests
-
+Pillow
+plotly
