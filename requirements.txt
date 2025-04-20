@@ -4,3 +4,4 @@ numpy
 requests
 Pillow
 plotly
+rdkit==2022.9.5
