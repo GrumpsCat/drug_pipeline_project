@@ -14,6 +14,8 @@ RUN apt-get update && apt-get install -y \
     libpng-dev \
     libfreetype6-dev \
     libx11-dev \
+    libxext-dev \
+    libxrender1 \
     libtiff-dev \
     libjpeg-dev \
     && rm -rf /var/lib/apt/lists/*
