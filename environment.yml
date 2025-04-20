@@ -1,0 +1,13 @@
+name: drugenv
+channels:
+  - rdkit
+  - conda-forge
+dependencies:
+  - python=3.10
+  - rdkit
+  - streamlit
+  - pandas
+  - numpy
+  - requests
+  - pillow
+  - plotly
